@@ -45,10 +45,6 @@ Veri odaklı uygulamalar ve full-stack mobil platformlar geliştiriyorum. Şu an
 
 **[Teknik Servis Yönetimi](https://github.com/AliSadi41/technical-service-management-system-v1)** — Web tabanlı servis takip sistemi  
 Müşteri, cihaz ve servis kayıtları yönetimi · PHP & MySQL
-
-**OtoYardım** *(geliştirme aşamasında)* — Yol yardımı reverse marketplace  
-Sürücüler hasar/arıza talebi oluşturur · Ustalar ve çekiciler teklif verir · Django REST + Flutter
-
 ---
 
 ## GitHub İstatistikleri
