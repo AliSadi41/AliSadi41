@@ -2,6 +2,8 @@
 
 YBS okuyorum. Ham verinin bir şeye dönüştüğü o anı seviyorum — Pandas, scikit-learn, LightGBM, Streamlit benim aletlerim. Kafama takılan soruları veriyle çözmeye çalışırım.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisadi/)
+
 ---
 
 ## Teknolojiler
@@ -23,12 +25,13 @@ YBS okuyorum. Ham verinin bir şeye dönüştüğü o anı seviyorum — Pandas,
 
 ## Projeler
 
-**[OtoPuls](https://github.com/AliSadi41/arac-metrik)**
-Türkiye ikinci el araç piyasası analiz platformu. 250k+ ilan, LightGBM R²=0.97, fiyat tahmini ve fırsat dedektörü.
+**[OtoPuls](https://github.com/AliSadi41/arac-metrik)**  
+Türkiye ikinci el araç piyasası analiz platformu. 250k+ ilan, LightGBM R²=0.97, fiyat tahmini ve fırsat dedektörü. Python · Pandas · Streamlit
 
-**[Teknik Servis Yönetim Sistemi](https://github.com/AliSadi41/technical-service-management-system-v1)**
-Web tabanlı servis takip uygulaması. Müşteri, cihaz ve servis kayıtları yönetimi.
+**[Teknik Servis Yönetim Sistemi](https://github.com/AliSadi41/technical-service-management-system-v1)**  
+Web tabanlı teknik servis takip uygulaması. Müşteri, cihaz ve arıza yönetimi; gelişmiş admin paneli; CRM modülü. PHP · MySQL · Bootstrap
 
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AliSadi41&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=tr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSadi41&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=tr)
