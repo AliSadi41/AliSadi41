@@ -1,6 +1,6 @@
 # Muhammed Ali Sadi
 
-YBS okuyorum. Ham verinin bir şeye dönüştüğü o anı seviyorum — Pandas, scikit-learn, LightGBM, Streamlit benim aletlerim. Kafama takılan soruları veriyle çözmeye çalışırım.
+Yönetim Bilişim Sistemleri öğrencisiyim. Veri analizi ve makine öğrenmesi üzerine çalışıyorum; Python ekosistemiyle (Pandas, scikit-learn, LightGBM) veri temizlemeden modellemeye ve Streamlit ile canlı uygulamaya kadar uçtan uca projeler geliştiriyorum. PHP ve MySQL ile web tabanlı uygulamalar da geliştirdim.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisadi/)
 
