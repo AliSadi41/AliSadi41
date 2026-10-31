@@ -1,0 +1,35 @@
+name: Profil kartlarini guncelle
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"  # her pazartesi 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: [".github/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  kartlar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Kartlari uret
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/stats.py "${{ github.repository_owner }}" cikti
+
+      # Kartlar ayri "output" dalinda tek commit olarak tutulur;
+      # bu dal katki grafigini ve contributors listesini etkilemez.
+      - name: output dalina yayinla
+        run: |
+          cd cikti
+          git init -q -b output
+          git config user.name "AliSadi41"
+          git config user.email "muhammedalisadix0@gmail.com"
+          git add .
+          git commit -q -m "Profil kartlarini guncelle"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

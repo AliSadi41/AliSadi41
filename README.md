@@ -33,5 +33,5 @@ Web tabanlı teknik servis takip uygulaması. Müşteri, cihaz ve arıza yöneti
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AliSadi41&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=tr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSadi41&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=tr)
+![Stats](https://raw.githubusercontent.com/AliSadi41/AliSadi41/output/stats.svg)
+![Top Langs](https://raw.githubusercontent.com/AliSadi41/AliSadi41/output/top-langs.svg)
