@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img" aria-label="GitHub İstatistikleri">
+<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif}.b{font-size:18px;font-weight:600;fill:#58a6ff}.e{font-size:14px;fill:#c9d1d9}.d{font-size:14px;font-weight:700;fill:#c9d1d9}.k{font-size:12px;fill:#8b949e}</style>
+<rect x="0.5" y="0.5" width="359" height="179" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="35" class="b">GitHub İstatistikleri</text>
+<circle cx="31" cy="67" r="4" fill="#58a6ff"/><text x="45" y="72" class="e">Toplam Commit:</text><text x="330" y="72" class="d" text-anchor="end">33</text>
+<circle cx="31" cy="95" r="4" fill="#58a6ff"/><text x="45" y="100" class="e">Public Repo:</text><text x="330" y="100" class="d" text-anchor="end">3</text>
+<circle cx="31" cy="123" r="4" fill="#58a6ff"/><text x="45" y="128" class="e">Kullanılan Dil:</text><text x="330" y="128" class="d" text-anchor="end">6</text>
+<circle cx="31" cy="151" r="4" fill="#58a6ff"/><text x="45" y="156" class="e">Toplam Yıldız:</text><text x="330" y="156" class="d" text-anchor="end">1</text>
+</svg>
